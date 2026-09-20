@@ -1,0 +1,28 @@
+name: fan_deck_otp
+description: A stunning Flutter OTP & PIN input widget featuring a 2-stage playing card fan-and-stack collapse animation, rotating neon border loader, and error shake reset.
+version: 1.0.0
+homepage: https://github.com/ShahzainBaloch/fan_deck_otp
+repository: https://github.com/ShahzainBaloch/fan_deck_otp
+issue_tracker: https://github.com/ShahzainBaloch/fan_deck_otp/issues
+
+topics:
+  - otp
+  - pin-code
+  - animation
+  - input
+  - authentication
+
+environment:
+  sdk: ^3.11.0
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
